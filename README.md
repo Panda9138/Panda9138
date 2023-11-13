@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Panda9138
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Tarik
+- 👀 I’m interested in Javascript, für CSS, für HTML und Angular
+- 🌱 I am currently learning html and css. I'm currently learning how to create responsive web designs.
+- 💞️ I am looking for a collaboration for Angular or Javascript
 - 📫 How to reach me ...
 
 <!---
